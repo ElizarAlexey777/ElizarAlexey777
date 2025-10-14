@@ -54,8 +54,7 @@ timeline
 ```
 
 ## 💡 About Me
-
-**English:**  
+ 
 Experienced **.NET Backend Developer** with expertise in building robust enterprise solutions. Currently expanding my skillset by mastering **Go** for high-performance and concurrent systems. Passionate about clean architecture, best practices, and continuous learning.
 
 **Key Strengths:**
